@@ -1,4 +1,5 @@
-{
+var masterdict = {
+    "754466": {
     "cultivation": "the process of preparing the land for growing crops",
     "the process of preparing the land for growing crops": "cultivation",
     "irrigation": "a means of supplying water for agriculture",
@@ -39,4 +40,5 @@
     "to go down suddenly": "to plunge",
     "to unleash": "to release a thing or emotion",
     "to release a thing or emotion": "to unleash"
-}
+},
+};
